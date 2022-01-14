@@ -1,0 +1,25 @@
+package Practice_1_5_22;
+
+public class Deeper {
+
+    public static void main(String[] args) {
+        System.out.println("Not Deep"); //1
+        deep();//go to deep method line13
+        System.out.println("Not Deep");//5
+
+    }
+
+    public static void deep() {
+        System.out.println(" Deep");//2
+        deeper();
+        System.out.println(" Deep"); //4
+
+    }
+
+    public static void deeper() {
+        System.out.println(" Deeper");//3
+
+    }
+
+
+}
