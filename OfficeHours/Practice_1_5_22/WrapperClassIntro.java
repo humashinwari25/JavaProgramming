@@ -10,6 +10,7 @@ public class WrapperClassIntro {
                  =============
 */
 
+    public String str = "anything";
 
     public static void main(String args[]) {
 //ALL primitive types
