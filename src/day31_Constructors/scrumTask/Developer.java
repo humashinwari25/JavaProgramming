@@ -43,7 +43,7 @@ public class Developer {
 create a class called Developer
 	          Attributes:
 	            name, employeeID, JobTitle, Salary
-	          Add A constructor that can set all the fileds
+	          Add Box constructor that can set all the fileds
 	          Actions:
 	            coding(), unitTesting(), fixingBug(), toString()
  */

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BranchingStatements {
     public static void main(String[] args) {
-        for (char i = 'A'; i <= 'Z' ; i++ ) { // A B C D E F
+        for (char i = 'A'; i <= 'Z' ; i++ ) { // Box B C D E F
             System.out.println(i+ " ");
             if(i =='F'){
                 break ; // Exits the loop

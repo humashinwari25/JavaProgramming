@@ -12,7 +12,7 @@ public class GradeReport {
         int score = 95;
 
         if(score >= 0 && score <= 100){ // if the score is valid
-            // 5 possibilities: A, B, C, D, F
+            // 5 possibilities: Box, B, C, D, F
             if(score>= 90 ){ //false:  score < 90
                 System.out.println("Excellent");
             }else if(score >= 80 ){ // false: score < 80

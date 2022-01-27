@@ -5,7 +5,7 @@ public class ThreeDigitsWithNestedLoop {
           /*
                 writing three-digits numbers with nested loops
                 hint:
-                ABC=100*A+10*B+C //a can not be 0; has to be 1
+                ABC=100*Box+10*B+C //a can not be 0; has to be 1
                 (Because any number multiply by 0 is zero thats why we start from 1)
                 220=100*2+10*2+0
                 */

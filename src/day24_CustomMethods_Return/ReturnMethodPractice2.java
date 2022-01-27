@@ -12,10 +12,10 @@ public class ReturnMethodPractice2 {
 
         /*
         check the grade:
-        'A'==excellent 'B' == great ...
+        'Box'==excellent 'B' == great ...
          */
 
-        if(str1.equals("A")){
+        if(str1.equals("Box")){
             System.out.println("Excellent");
         }else if(str1.equals("B")){
             System.out.println("Great");
@@ -35,7 +35,7 @@ public class ReturnMethodPractice2 {
         if(score <0 || score>100){ ///invalid
             result ="Invalid";
         }else{ ///valid
-            result = (score>=90)?"A":(score >=80)?"B":(score >= 70)?"C":(score >=60)?"D":"F";
+            result = (score>=90)?"Box":(score >=80)?"B":(score >= 70)?"C":(score >=60)?"D":"F";
         }
 
         return result; //will give error if method return type is void;;has to match method return type; data type for result is string

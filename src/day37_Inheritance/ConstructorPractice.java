@@ -3,7 +3,7 @@ package day37_Inheritance;
 class A{
 
     public A(int a){
-        System.out.println("A");
+        System.out.println("Box");
     }
 
 }

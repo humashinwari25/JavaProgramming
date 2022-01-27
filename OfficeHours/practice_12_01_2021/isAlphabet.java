@@ -4,7 +4,7 @@ public class isAlphabet {
     public static void main(String[] args) {
         /*
 Create  program to check whether a character is an alphabet or not
-                            An input character is an alphabet if it lies in between a-z or A-Z.
+                            An input character is an alphabet if it lies in between a-z or Box-Z.
 
                             INPUT : '.'            EXPECTED : Your letter is not in alphabet
 

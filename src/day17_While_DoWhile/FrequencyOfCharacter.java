@@ -8,7 +8,7 @@ public class FrequencyOfCharacter {
         int frequency = 0; // +1,+1,+1 ==> 3
         for (int i = 0; i < str.length(); i++) {  ///i:indexes of str or i<=str.length()-1
             char eachChar = str.charAt(i); // eachChar will give each character of str
-            //'A' == 'A'
+            //'Box' == 'Box'
             if (ch == eachChar) { //if given ch is matching with the eachChar, then ch will appear in the string
                 frequency++;
             }
@@ -22,7 +22,7 @@ public class FrequencyOfCharacter {
  from a String
 			Ex:
 				str = "AAABBBC"
-				ch = 'A'
+				ch = 'Box'
 			Output:
 				3
  */

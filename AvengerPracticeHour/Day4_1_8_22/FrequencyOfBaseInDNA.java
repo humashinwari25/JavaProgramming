@@ -1,14 +1,15 @@
 package Day4_1_8_22;
-
+/*
 public class FrequencyOfBaseInDNA {
     /**
      *  Q4:
-     *        -An example of a length 21 DNA string(whose alphabet contains the symbols 'A','C','G','T')
+     *        -An example of a length 21 DNA string(whose alphabet contains the symbols 'Box','C','G','T')
      *        is "ATGCTTCAGAAAGGTCTTACG"
      *        Expected output:
-     *        A:6 C:4 G:5 T:6
+     *        Box:6 C:4 G:5 T:6
      */
 
+ /*
     public static void main(String[] args) {
         String dna="ATGCTTCAGAAAGGTCTTACG";
         String result=   findFrequencyOfBaseInDNA(dna);
@@ -16,12 +17,12 @@ public class FrequencyOfBaseInDNA {
     }
 
     private static String findFrequencyOfBaseInDNA(String dna) {
-        int a=findFrequencyOfLetter(dna,'A');
+        int a=findFrequencyOfLetter(dna,'Box');
         int c=findFrequencyOfLetter(dna,'C');
         int g=findFrequencyOfLetter(dna,'G');
         int t=findFrequencyOfLetter(dna,'T');
 
-        return  "A: "+ a+ " C: "+ c+ " G: "+g+ " T: "+t;
+        return  "Box: "+ a+ " C: "+ c+ " G: "+g+ " T: "+t;
     }
 
     private static int findFrequencyOfLetter(String dna, char ch) {
@@ -35,3 +36,4 @@ public class FrequencyOfBaseInDNA {
         return counter;
     }
 }
+ */

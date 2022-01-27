@@ -110,7 +110,7 @@ public class WarmupTasks {
 
         output:
         list1: {1, 2, 3, 4, 5, 6}
-        list2: {A, B, C, D, E, F, G}
+        list2: {Box, B, C, D, E, F, G}
         list3: {$, %, #, @, &, !}
 
  */

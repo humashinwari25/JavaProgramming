@@ -20,7 +20,7 @@ public class MergeTwoArrays2 {
 
             System.out.println("----------------------------------------------");
 
-            String[] a1 = {"A", "B", "C"};
+            String[] a1 = {"Box", "B", "C"};
             String[] a2 = {"D", "E", "F"};
 
             String[] result = merge(a1, a2);

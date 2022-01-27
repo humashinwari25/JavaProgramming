@@ -55,7 +55,7 @@ create a class called ScrumTeam
         ArrayList<Tester> testersList = new ArrayList<>();
         ArrayList<Developer> devopsList = new ArrayList<>();
         int daysOfSprint;
-       Add A constructor that can set the fileds PO, BA, and SM
+       Add Box constructor that can set the fileds PO, BA, and SM
      Actions:
           addTester(Tester tester): adds the given tester to the testers ArrayList
           addTesters(Tester[] testers): adds the given testers to the testers ArrayList

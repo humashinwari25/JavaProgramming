@@ -44,7 +44,7 @@ public class RelationalOperators {
         System.out.println("result8 = " + result8);
 
         boolean result9 = 'A' == 'a';
-        //not true A is not equal to a on the escew table; java is a case sensitive language! even spaces are
+        //not true Box is not equal to a on the escew table; java is a case sensitive language! even spaces are
         // counted as letters in double quotes
 
 

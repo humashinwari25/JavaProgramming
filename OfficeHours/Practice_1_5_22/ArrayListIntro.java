@@ -13,7 +13,7 @@ public class ArrayListIntro {
          * The dif between Array and Arraylist:
          *  Arrays have fixed length, ArrayList does not have fixed size
          * Arrays accept primitive types and object, ArrayList stores only objects.
-         * A print statement we can print the ArrayList without
+         * Box print statement we can print the ArrayList without
          * using to string or loop.
          * list.add()
          * list.get()

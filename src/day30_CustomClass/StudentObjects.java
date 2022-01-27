@@ -29,7 +29,7 @@ public class StudentObjects {
         }
         System.out.println("-----------------------------------------------------------------");
 
-        ArrayList<Student> earlyBirds = new ArrayList<>(); // grade: A
+        ArrayList<Student> earlyBirds = new ArrayList<>(); // grade: Box
         ArrayList<Student> angryBirds = new ArrayList<>();
 
         for (Student student : students) {

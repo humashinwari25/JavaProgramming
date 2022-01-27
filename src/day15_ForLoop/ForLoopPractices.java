@@ -67,9 +67,9 @@ public class ForLoopPractices {
         }
 
                 /*
-        A~Z
+        Box~Z
         a~z
-        Z~A
+        Z~Box
         z~a
          */
 

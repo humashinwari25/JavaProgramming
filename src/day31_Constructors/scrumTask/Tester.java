@@ -40,7 +40,7 @@ public class Tester {
 create a class called Tester
 	        Attributes:
 	            name, employeeID, JobTitle, Salary
-	        Add A constructor that can set all the fields
+	        Add Box constructor that can set all the fields
 	        Actions:
 	           smokeTesting(),  creatingTicket(), dailyStandUp() toString()
  */

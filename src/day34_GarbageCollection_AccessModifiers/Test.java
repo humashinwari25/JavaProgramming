@@ -1,5 +1,4 @@
 package day34_GarbageCollection_AccessModifiers;
-import static day34_GarbageCollection_AccessModifiers.Circle.*;
 import static Utilities.MathUtility.*;
 
 public class Test {

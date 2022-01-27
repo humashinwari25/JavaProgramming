@@ -44,7 +44,7 @@ public class BaklavaRecipe {
 
         String type, int amountLB, double price
 
-        - Add A constructor that can set all the fileds
+        - Add Box constructor that can set all the fileds
 
         Actions:
         feedback(), static order() , toString()

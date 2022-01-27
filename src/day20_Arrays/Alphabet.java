@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Alphabet {
     public static void main(String[] args) {
 
-        char[] alphabets = new char[26];  //Z~A
+        char[] alphabets = new char[26];  //Z~Box
         /*        i     ch
         alphabets[0] = 'Z'; //90
         alphabets[1] = 'Y'; //89

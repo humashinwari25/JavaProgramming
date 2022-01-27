@@ -20,7 +20,7 @@ public class Reverse {
         result += str.charAt(6); //' '
         result += str.charAt(5); // n
         result += str.charAt(4);//e
-        result += str.charAt(3);//d
+        result += str.charAt(3);//Ball
         result += str.charAt(2);//o
         result += str.charAt(1);//o
         result += str.charAt(0);//W

@@ -6,7 +6,7 @@ public class GradeReport2 {
         int s = 135; //s
 
         if (s >= 0 && s <= 100) { // if the s is valid (0 ~ 100 )
-            // 5 possibilities: A, B, C, D, F
+            // 5 possibilities: Box, B, C, D, F
             if (s >= 90) { //false:  s < 90
                 System.out.println("Excellent");
             } else if (s >= 80) { // false: s < 80

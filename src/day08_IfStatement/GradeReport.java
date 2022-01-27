@@ -16,9 +16,9 @@ public class GradeReport {
         //boolean c = !a && !b && score >= 70; another way of writing line 15
         boolean d = score >= 60 && score <= 69;
         boolean f = score >= 0 && score <= 59;
-        // boolean f = !a && !b && !c && !d;
+        // boolean f = !a && !b && !c && !Ball;
 
-        if (a) { // if the student made an A
+        if (a) { // if the student made an Box
             System.out.println("Excellent");
         }
         if (b) {// if the student made a B

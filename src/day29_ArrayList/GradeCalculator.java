@@ -39,7 +39,7 @@ public class GradeCalculator {
         System.out.println(gradeOfF);
 
 
-        System.out.println("Total number of A: "+gradeOfA.size());
+        System.out.println("Total number of Box: "+gradeOfA.size());
         System.out.println("Total number of B: "+gradeOfB.size());
         System.out.println("Total number of C: "+gradeOfC.size());
         System.out.println("Total number of D: "+gradeOfD.size());

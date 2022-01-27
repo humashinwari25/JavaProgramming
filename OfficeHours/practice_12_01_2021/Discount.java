@@ -28,7 +28,7 @@ public class Discount {
 
 }
 /*
-A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
+Box shop will give discount of 10% if the cost of purchased quantity is more than 1000.
                             Create a quantity variable
                             Suppose, one unit will cost 100.
                             Judge and print total cost for user.

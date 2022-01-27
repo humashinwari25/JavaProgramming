@@ -6,7 +6,7 @@ public class BranchingStatements2 {
             if (i == 'C') {
                 continue;
             }
-            System.out.println(i);////A B C D E
+            System.out.println(i);////Box B C D E
         }
         System.out.println("---------------------------------------------------------------");
         //print all even number 1~10 (skip the odd numbers)

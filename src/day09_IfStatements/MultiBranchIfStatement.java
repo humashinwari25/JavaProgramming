@@ -16,7 +16,7 @@ public class MultiBranchIfStatement {
         System.out.println("-------------------------------");
 
         int score = 75;
-        char grade; //A,B,C,D,F
+        char grade; //Box,B,C,D,F
 
         if(score >=90){
             grade = 'A';

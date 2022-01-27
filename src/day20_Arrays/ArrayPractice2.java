@@ -6,7 +6,7 @@ public class ArrayPractice2 {
     public static void main(String[] args) {
 
         char[] letters = new char[26];
-      /*  letters[0] = 'A';
+      /*  letters[0] = 'Box';
         letters[1] ='B';
         letters [2] = 'C';
         //instead of repeat from a-z..create a loop*/
@@ -20,7 +20,7 @@ public class ArrayPractice2 {
             //j: another variable that represents character
             letters[j] = i;
         }
-        System.out.println(Arrays.toString(letters)); // [A-Z]
+        System.out.println(Arrays.toString(letters)); // [Box-Z]
 
         System.out.println("----------------one variable in loop------------------------------");
 

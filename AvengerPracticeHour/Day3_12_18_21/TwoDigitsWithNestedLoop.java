@@ -6,7 +6,7 @@ public class TwoDigitsWithNestedLoop {
         ///*
         //                writing two-digits numbers with nested loops
         //                hint:
-        //                AB=10*A+B
+        //                AB=10*Box+B
         //                */
 
         for (int a = 1; a <= 9; a++) { //a:1

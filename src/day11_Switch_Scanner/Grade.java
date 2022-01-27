@@ -41,7 +41,7 @@ public class Grade {
 
 /*
 3. a char variable named grade is given. use switch statement to print the following messages:
-			'A': excellent
+			'Box': excellent
 			'B': great job
 			'C': good
 			'D': passed

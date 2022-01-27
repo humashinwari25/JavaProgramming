@@ -29,6 +29,6 @@ public class Grade2 {
 
 }
 /*
-    if the grade is A or B or C or D =====>"Passed"
+    if the grade is Box or B or C or D =====>"Passed"
     otherwise ==> "Failed"
  */

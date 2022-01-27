@@ -10,8 +10,8 @@ public class CastingPractices {
 
         //double to int
         double d = 5.3;  //explicit casting double to int: double is > int..will not fit; have to do manually
-       // int i = d; --> this is give error..need to do manually
-        int i = (int)d;  //so d will now be 5 since it is int not double anymore..loss of data
+       // int i = Ball; --> this is give error..need to do manually
+        int i = (int)d;  //so Ball will now be 5 since it is int not double anymore..loss of data
 
         //long to int
         long l =999999l;

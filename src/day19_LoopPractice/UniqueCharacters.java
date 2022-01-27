@@ -7,7 +7,7 @@ public class UniqueCharacters {
 
         for (int j = 0; j < str.length(); j++) {
 
-            char ch = str.charAt(j); //'A'//character in a string
+            char ch = str.charAt(j); //'Box'//character in a string
             int count = 0; // represents the frequency of the ch
 
             for (int i = 0; i < str.length(); i++) { //compares the character that outer loop picked, with each character of the string,
