@@ -18,20 +18,20 @@ public class Animal {
         this.color = color;
     }
 
-    public void eat(){
-        System.out.println(name+" is eating");
+    public void eat() {
+        System.out.println(name + " is eating");
     }
 
-    public void drink(){
-        System.out.println(name+ " is drinking");
+    public void drink() {
+        System.out.println(name + " is drinking");
     }
 
-    public void  move(){
-        System.out.println(name+ " is moving");
+    public void move() {
+        System.out.println(name + " is moving");
     }
 
-    public void sleep(){
-        System.out.println(name+ " is sleeping");
+    public void sleep() {
+        System.out.println(name + " is sleeping");
     }
 
     public String toString() {
