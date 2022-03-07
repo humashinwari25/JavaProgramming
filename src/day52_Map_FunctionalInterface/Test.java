@@ -1,4 +1,4 @@
-package day44_Abstraction.day52_Map_FunctionalInterface;
+package day52_Map_FunctionalInterface;
 // lambda:  () -> {}
 
 public class Test {
