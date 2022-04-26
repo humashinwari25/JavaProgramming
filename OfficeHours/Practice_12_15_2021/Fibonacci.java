@@ -1,7 +1,4 @@
-package Practice_12_15_21;
-
-import java.util.Arrays;
-import java.util.Scanner;
+package Practice_12_15_2021;
 
 //public class Fibonacci
  /*   public static void main(String[] args) {

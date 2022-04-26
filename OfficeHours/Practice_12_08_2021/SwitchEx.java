@@ -1,4 +1,4 @@
-package Practice_12_08_21;
+package Practice_12_08_2021;
 
 public class SwitchEx {
     public static void main(String[] args) {
